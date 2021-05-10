@@ -18,8 +18,6 @@ Second player:
 
 ## Running the game
 
-**WARNING: THE GAME CAN BE REALLY LOUD**
-
 The game was tested under Python 3.5 and 3.6 on Windows.
 
 To run the game on Windows, simply run the `main.py` file or run `python main.py`
